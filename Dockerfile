@@ -4,7 +4,7 @@
 
 # This enables running medium tests of umake.
 
-FROM	ubuntu:18.04
+FROM	ubuntu:focal-20240410
 LABEL maintainer	Galileo Sartor <galileo.sartor@gmail.com>
 
 # Set the env variable DEBIAN_FRONTEND to noninteractive
